@@ -11,3 +11,12 @@
 footer p a{
     margin: 5px 15px;
 }
+
+/* media queries */
+
+@media (max-width: 600px){
+    #home h1{
+        font-size: 2rem;
+        padding-top: 2.7rem;
+    }
+}
